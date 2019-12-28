@@ -1,0 +1,1 @@
+Sample application for [https://ajurasz.github.io/2019-12-28-accessing-request-data-from-outside-of-calling-thread/](https://ajurasz.github.io/2019-12-28-accessing-request-data-from-outside-of-calling-thread/)
